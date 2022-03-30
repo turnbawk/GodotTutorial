@@ -1,7 +1,7 @@
 extends Area2D
 signal hit
 
-export var speed = 400
+export var speed = 300
 var screen_size
 
 func start(pos):
